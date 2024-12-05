@@ -14,7 +14,9 @@ void draw(){
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
-  
+  rect(164,50,70,40); // hat
+  line(98,147,151,190); // left arm
+  line(247,195,304,151); // right arm
 
 }
 
